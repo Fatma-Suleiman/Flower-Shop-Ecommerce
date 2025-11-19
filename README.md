@@ -9,7 +9,3 @@ An online flower shop website showcasing products, promotions, and events. Featu
 - Newsletter subscription
 
 
-## Technologies Used
-HTML | CSS 
-
-
