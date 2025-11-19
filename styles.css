@@ -563,6 +563,7 @@ body {
   gap: 28px;
   align-items: start;
   padding: 8px;
+ 
 }
 
 /* Brand title */
@@ -574,6 +575,7 @@ body {
   margin: 0 0 12px;
   color: #fff;
   font-weight: 700;
+  
 }
 
 
@@ -583,6 +585,7 @@ body {
   display: inline-block;
   object-fit: contain;
   border-radius: 6px;
+  border: 2px solid #000;
 
 }
 
@@ -599,6 +602,8 @@ body {
   display: flex;
   gap: 12px;
   margin-top: 6px;
+ 
+  
 }
 
 
@@ -615,6 +620,7 @@ body {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
   text-decoration: none;
   transition: transform .18s ease, box-shadow .18s ease;
+
 }
 
 /* svg sizes inside the circle */
@@ -1837,6 +1843,7 @@ body {
   align-items: center;
   justify-content: center;
   width: 100%;
+  
 }
 
 .newsletter-section-header .newsletter-heading {
@@ -1871,6 +1878,7 @@ body {
   justify-content: center;
   width: 100%;
   margin-top: 35px;
+ 
 }
 
 
@@ -1900,6 +1908,7 @@ body {
   border-radius: 20px;
   display: flex;
   gap: 3px;
+  
 
   overflow: hidden;
 }
